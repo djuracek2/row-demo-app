@@ -1,8 +1,4 @@
 {
-	"attributes": {
-    "portalUrl": "blm-egis.maps.arcgis.com",
-    "clientId": "qqif8uwYsvqcosuY"
-  },
   "pages": {
     "home": {
       "type": "NORMAL",
@@ -20,6 +16,10 @@
       "bodyBackgroundColor": "#b9975b",
       "footer": true
     }
+  },
+  "attributes": {
+    "portalUrl": "https://blm-egis.maps.arcgis.com/",
+    "clientId": "qqif8uwYsvqcosuY"
   },
   "layouts": {
     "home-layout-large": {
