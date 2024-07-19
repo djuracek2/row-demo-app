@@ -15,6 +15,10 @@
       "label": "Page"
     }
   },
+    "attributes": {
+    "portalUrl": "https://blm-egis.maps.arcgis.com/",
+    "clientId": "qqif8uwYsvqcosuY"
+  },
   "layouts": {
     "home-layout-large": {
       "type": "FIXED",
