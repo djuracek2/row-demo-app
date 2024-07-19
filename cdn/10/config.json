@@ -1,4 +1,8 @@
 {
+	"attributes": {
+    "portalUrl": "blm-egis.maps.arcgis.com",
+    "clientId": "qqif8uwYsvqcosuY"
+  },
   "pages": {
     "home": {
       "type": "NORMAL",
