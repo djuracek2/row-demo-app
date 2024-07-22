@@ -32,7 +32,7 @@
               window.location.href = `${location.protocol}//${location.host}${mountPathFinal}page/set-portalurl`;
             } else {
               // Redirect to landing page
-              window.location.href = `${location.protocol}//${location.host}/page/landing`;
+              window.location.href = `https://blm-egis.maps.arcgis.com`;
             }
           }
         }
@@ -85,8 +85,8 @@
             window.opener.parent = null;
           }
           arcgisRest.UserSession.completeOAuth2({
-            portal: query.portal,
-            clientId: query.clientId,
+            portal: 'https://blm-egis.maps.arcgis.com/,
+            clientId: 'dlMRYDlJIukG38sZ,
             popup: popup,
           });
           // completeOAuth2ForPopupWindow(query, hash);
