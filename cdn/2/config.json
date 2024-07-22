@@ -16,7 +16,7 @@
     }
   },
     "attributes": {
-    "portalUrl": "https://blm-egis.maps.arcgis.com/",
+    "portalUrl": "https://blm-egis.maps.arcgis.com",
     "clientId": "dlMRYDlJIukG38sZ"
   },
   "layouts": {
