@@ -16,8 +16,8 @@
     }
   },
     "attributes": {
-    "portalUrl": "https://exb.maps.arcgis.com",
-    "clientId": "dlMRYDlJIukG38sZ"
+    "portalUrl": "https://blm-egis.maps.arcgis.com",
+    "clientId": "arcgisonline"
   },
   "layouts": {
     "home-layout-large": {
