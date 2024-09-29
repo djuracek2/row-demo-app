@@ -1,0 +1,51 @@
+{
+  "1711577599255.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1711577599255.png",
+    "properties": {
+      "filename": "1711577599255.png",
+      "originalName": "blm_logo_transparent.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1711577599255.png",
+      "inlineSvg": false
+    }
+  },
+  "1725653356218.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1725653356218.png",
+    "properties": {
+      "filename": "1725653356218.png",
+      "originalName": "NPS_SocialMediaProfilePic_WarmGray.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1725653356218.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1725659281249.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1725659281249.png",
+    "properties": {
+      "filename": "1725659281249.png",
+      "originalName": "USFWS.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1725659281249.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1726075083013.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1726075083013.png",
+    "properties": {
+      "filename": "1726075083013.png",
+      "originalName": "Logo_of_the_United_States_Forest_Service.svg.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1726075083013.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1726687185490.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1726687185490.png",
+    "properties": {
+      "filename": "1726687185490.png",
+      "originalName": "ROW.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1726687185490.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
