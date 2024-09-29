@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Πλαϊνή γραμμή",_layout_FIRST_label:"Πρώτο",_layout_SECOND_label:"Δευτερολέπτων",_action_toggleSidebar_label:"Εναλλαγή πλαϊνής μπάρας",widgetProperties:"Ιδιότητες του widget",widgetFunctions:"Λειτουργίες του widget",widgetName:"όνομα του widget:",widgetProps:"ιδιότητες του widget:"})}}}));
