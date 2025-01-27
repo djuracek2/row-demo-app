@@ -9530,37 +9530,6 @@
     "group": 10
   },
   {
-    "name": "map_layer_list",
-    "manifest": {
-      "name": "map_layer_list",
-      "label": "Layer List",
-      "type": "widget",
-      "version": "1.13.0",
-      "exbVersion": "1.13.0",
-      "author": "Esri R&D Center Beijing",
-      "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
-      "copyright": "",
-      "license": "http://www.apache.org/licenses/LICENSE-2.0",
-      "properties": {},
-      "dependency": [
-        "jimu-arcgis"
-      ],
-      "translatedLocales": [
-        "en"
-      ],
-      "defaultSize": {
-        "width": 800,
-        "height": 500
-      }
-    },
-    "i18nLabel": {},
-    "i18nDescription": {},
-    "uri": "widgets/layerlist-widget/map_layer_list/",
-    "icon": "widgets/layerlist-widget/map_layer_list/icon.svg",
-    "order": 700,
-    "group": 7
-  },
-  {
     "name": "layer_ref",
     "manifest": {
       "name": "layer_ref",
@@ -9586,70 +9555,8 @@
     },
     "i18nLabel": {},
     "i18nDescription": {},
-    "uri": "widgets/layer_ref/layer_ref/",
-    "icon": "widgets/layer_ref/layer_ref/icon.svg",
-    "order": 700,
-    "group": 7
-  },
-  {
-    "name": "layer_ref_old",
-    "manifest": {
-      "name": "layer_ref_old",
-      "label": "layer refactor old",
-      "type": "widget",
-      "version": "1.13.0",
-      "exbVersion": "1.13.0",
-      "author": "Esri R&D Center Beijing",
-      "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
-      "copyright": "",
-      "license": "http://www.apache.org/licenses/LICENSE-2.0",
-      "properties": {},
-      "dependency": [
-        "jimu-arcgis"
-      ],
-      "translatedLocales": [
-        "en"
-      ],
-      "defaultSize": {
-        "width": 800,
-        "height": 500
-      }
-    },
-    "i18nLabel": {},
-    "i18nDescription": {},
-    "uri": "widgets/layer_ref_old/",
-    "icon": "widgets/layer_ref_old/icon.svg",
-    "order": 700,
-    "group": 7
-  },
-  {
-    "name": "reviewer",
-    "manifest": {
-      "name": "reviewer",
-      "label": "Reviewer",
-      "type": "widget",
-      "version": "1.14.0",
-      "exbVersion": "1.14.0",
-      "author": "Esri R&D Center Beijing",
-      "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
-      "copyright": "",
-      "license": "http://www.apache.org/licenses/LICENSE-2.0",
-      "properties": {
-        "hasSettingPage": false
-      },
-      "dependency": "jimu-arcgis",
-      "translatedLocales": [
-        "en"
-      ],
-      "defaultSize": {
-        "width": 800,
-        "height": 500
-      }
-    },
-    "i18nLabel": {},
-    "i18nDescription": {},
-    "uri": "widgets/reviewer/",
-    "icon": "widgets/reviewer/icon.svg",
+    "uri": "widgets/layer_ref_V24/layer_ref/layer_ref/",
+    "icon": "widgets/layer_ref_V24/layer_ref/layer_ref/icon.svg",
     "order": 700,
     "group": 7
   },
@@ -9659,8 +9566,8 @@
       "name": "simple",
       "label": "Simple",
       "type": "widget",
-      "version": "1.14.0",
-      "exbVersion": "1.14.0",
+      "version": "1.15.0",
+      "exbVersion": "1.15.0",
       "author": "Esri R&D Center Beijing",
       "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
       "copyright": "",
@@ -9680,36 +9587,6 @@
     "i18nDescription": {},
     "uri": "widgets/simple/",
     "icon": "widgets/simple/icon.svg",
-    "order": 700,
-    "group": 7
-  },
-  {
-    "name": "upload",
-    "manifest": {
-      "name": "upload",
-      "label": "Upload",
-      "type": "widget",
-      "version": "1.14.0",
-      "exbVersion": "1.14.0",
-      "author": "Esri R&D Center Beijing",
-      "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
-      "copyright": "",
-      "license": "http://www.apache.org/licenses/LICENSE-2.0",
-      "properties": {
-        "hasSettingPage": false
-      },
-      "translatedLocales": [
-        "en"
-      ],
-      "defaultSize": {
-        "width": 800,
-        "height": 500
-      }
-    },
-    "i18nLabel": {},
-    "i18nDescription": {},
-    "uri": "widgets/upload/",
-    "icon": "widgets/upload/icon.svg",
     "order": 700,
     "group": 7
   }

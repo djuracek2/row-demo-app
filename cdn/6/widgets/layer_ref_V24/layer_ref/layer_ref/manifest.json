@@ -1,6 +1,6 @@
 {
-  "name": "map_layer_list",
-  "label": "Layer List",
+  "name": "layer_ref",
+  "label": "layer refactor",
   "type": "widget",
   "version": "1.13.0",
   "exbVersion": "1.13.0",
